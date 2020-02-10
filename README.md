@@ -4,5 +4,6 @@
 
  - Laivanupotus (C++) 
  - Tietorekisteri (C++)
+ - Reverse Polish notation calculator (C++)
 
-_Paikoin spagettikoodia. Ohjelmakoodissa myös sellaisia valintoja, joita ei nykyään tekisi enemmän oppineena._  
+_(Varoitus: Ohjelmakoodeissa on tehty aikoinaaan sellaisia valintoja, joita ei nykyään tekisi. Saattavat sisältää myös spagettikoodia)_  
