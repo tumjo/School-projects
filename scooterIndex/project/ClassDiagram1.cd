@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EScooter" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAEAAABABAAAAAAAIcAAMA=</HashCode>
+      <FileName>EScooter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScooterData" Collapsed="true">
+    <Position X="5.25" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAFgEABABAAEQAAEEAAIAAAAAhAAAwAAAAgAAQABQA=</HashCode>
+      <FileName>ScooterData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KScooter" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAIQAAAAAAAIAAAAAAAAAAQAIABAAA=</HashCode>
+      <FileName>KScooter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppRun" Collapsed="true">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAggAAQAAAAAAAAAAAgAAAAAAAAABAAAAEAAAgAAA=</HashCode>
+      <FileName>AppRun.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scooter" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAIAIAAICAAIAAAQAAAAAABkAEAAAADECAAAoQAQAg=</HashCode>
+      <FileName>Scooter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="scooterSharedPtrVector" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScooterData.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="scooterSharedPtr" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScooterData.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
